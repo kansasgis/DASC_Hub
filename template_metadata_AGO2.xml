@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>2012-03-06</CreaDate>
+		<CreaTime>12203300</CreaTime>
+		<ModDate>2021-07-19</ModDate>
+		<ModTime>10:18:42.83</ModTime>
+		<PublishStatus>editor:esri.dijit.metadata.editor</PublishStatus>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+		<ArcGISProfile>FGDC</ArcGISProfile>
+		<MapLyrSync>false</MapLyrSync>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncDate>2012-05-21</SyncDate>
+		<SyncTime>15010300</SyncTime>
+		<DataProperties>
+			<itemProps>
+				<imsContentType>002</imsContentType>
+				<itemName>Tiger2010_Census_Roads</itemName>
+				<itemSize>118.300</itemSize>
+				<nativeExtBox>
+					<westBL>-102.051721</westBL>
+					<eastBL>-94.592903</eastBL>
+					<southBL>36.993016</southBL>
+					<northBL>40.003139</northBL>
+					<exTypeCode>1</exTypeCode>
+				</nativeExtBox>
+			</itemProps>
+			<coordRef>
+				<type>Geographic</type>
+				<geogcsn>GCS_North_American_1983</geogcsn>
+				<csUnits>Angular Unit: Degree (0.017453)</csUnits>
+				<peXml>&lt;GeographicCoordinateSystem xsi:type=&apos;typens:GeographicCoordinateSystem&apos; xmlns:xsi=&apos;http://www.w3.org/2001/XMLSchema-instance&apos; xmlns:xs=&apos;http://www.w3.org/2001/XMLSchema&apos; xmlns:typens=&apos;http://www.esri.com/schemas/ArcGIS/10.0&apos;&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;EPSG&amp;quot;,4269]]&lt;/WKT&gt;&lt;XOrigin&gt;-399.99999999999989&lt;/XOrigin&gt;&lt;YOrigin&gt;-399.99999999999989&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.24&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.9831528411952117e-009&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;4269&lt;/WKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+	</Esri>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdHrLvName>dataset</mdHrLvName>
+	<mdFileID>1626707828216r05734299376452334</mdFileID>
+	<mdLang>
+		<languageCode value="eng"/>
+	</mdLang>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdContact>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+	</mdContact>
+	<mdDateSt>2012-05-21</mdDateSt>
+	<mdTimeSt>10:17:07.50</mdTimeSt>
+	<spdoinfo>
+		<ptvctinf>
+			<esriterm>
+				<efeatyp>Simple</efeatyp>
+				<efeageom code="3"/>
+				<esritopo>FALSE</esritopo>
+				<efeacnt>945624</efeacnt>
+				<spindex>TRUE</spindex>
+				<linrefer>FALSE</linrefer>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle></resTitle>
+			<presForm>
+				<PresFormCd value="005"/>
+			</presForm>
+			<citRespParty>
+				<rpOrgName>Data Access and Support Center</rpOrgName>
+				<role>
+					<RoleCd value="005"/>
+				</role>
+				<rpCntInfo>
+					<cntAddress addressType="both">
+						<eMailAdd>dasc@kgs.ku.edu</eMailAdd>
+						<delPoint>1930 Constant Avenue</delPoint>
+						<city>Lawrence</city>
+						<adminArea>KS</adminArea>
+						<postCode>66047</postCode>
+						<country>USA</country>
+					</cntAddress>
+					<cntPhone>
+						<voiceNum>785-864-2000</voiceNum>
+					</cntPhone>
+					<cntOnlineRes>
+						<linkage>http://www.kansasgis.org</linkage>
+					</cntOnlineRes>
+					<cntHours>8:00 - 5:00 M-F (central)</cntHours>
+				</rpCntInfo>
+			</citRespParty>
+		</idCitation>
+		<idAbs></idAbs>
+		<idPurp></idPurp>
+		<envirDesc></envirDesc>
+		<dataLang>
+			<languageCode value="eng"/>
+			<countryCode value="USA"/>
+		</dataLang>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<spatRpType>
+			<SpatRepTypCd value="001"/>
+		</spatRpType>
+		<searchKeys>
+
+		</searchKeys>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>1</exTypeCode>
+					<westBL>-102.051721</westBL>
+					<eastBL>-94.592903</eastBL>
+					<southBL>36.993016</southBL>
+					<northBL>40.003139</northBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<idPoC>
+			<rpOrgName>Data Access and Support Center</rpOrgName>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+		</idPoC>
+		<resConst>
+			<Consts>
+				<useLimit>The State of Kansas Geographic Information Systems Policy Board's Data Access and Support Center (DASC) and its representatives make no warranty or representation, either expressed or implied, with respect to the digital data and their documentation, their quality, performance, merchantability, or fitness for a particular purpose. The digital dataare distributed on "as is" basis, and the user assumes all risk to theirquality, the results obtained from their use, and the performance of the data. In no event will the State of Kansas Geographic Information Systems Policy Board or its representatives be liable for any direct,indirect, special, incidental or consequential damages resulting from and defect in the State of Kansas DASC hosted digital data or in their documentation. This disclaimer of warranty is exclusive and in lieu of all others, oral or written, express or implied. No agent or employee is authorized to make any modification, extension, or addition to this warranty.</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+	</dataIdInfo>
+	<distInfo>
+		<distTranOps>
+			<transSize>118.300</transSize>
+		</distTranOps>
+		<distFormat>
+			<formatName></formatName>
+		</distFormat>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<linkage>withheld</linkage>
+					<protocol>Local Area Network</protocol>
+					<orDesc>002</orDesc>
+				</onLineSrc>
+				<transSize>0.000</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName></formatName>
+			</distorFormat>
+			<distorCont>
+				<rpOrgName>Data Access and Support Center</rpOrgName>
+				<role>
+					<RoleCd value="005"/>
+				</role>
+				<rpCntInfo>
+					<cntAddress addressType="both">
+						<eMailAdd>dasc@kgs.ku.edu</eMailAdd>
+						<delPoint>1930 Constant Avenue</delPoint>
+						<city>Lawrence</city>
+						<adminArea>KS</adminArea>
+						<postCode>66047</postCode>
+						<country>USA</country>
+					</cntAddress>
+					<cntPhone>
+						<voiceNum>785-864-2000</voiceNum>
+					</cntPhone>
+					<cntOnlineRes>
+						<linkage>http://www.kansasgis.org</linkage>
+					</cntOnlineRes>
+					<cntHours>8:00 - 5:00 M-F (central)</cntHours>
+				</rpCntInfo>
+			</distorCont>
+		</distributor>
+	</distInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd value="001"/>
+			</topLvl>
+			<geometObjs Name="">
+				<geoObjTyp>
+					<GeoObjTypCd value="002"/>
+				</geoObjTyp>
+				<geoObjCnt>945624</geoObjCnt>
+			</geometObjs>
+		</VectSpatRep>
+	</spatRepInfo>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<idCodeSpace>EPSG</idCodeSpace>
+				<idVersion>7.4.1</idVersion>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+</metadata>
